@@ -1,5 +1,6 @@
 ## Criando um Servidor gRPC com GoLang
 
+<img src="./static/app.gif" align="center"></img>
 
 #### Pré-requisitos
 Partindo do principio que você já possui a GoLang instalada em sua maquina precisamos fazer a instalação do <b>protoc</b>. Ele é o responsavel pela geração do códifo golang apartir de um arquivo de configuração *.proto
